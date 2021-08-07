@@ -1,0 +1,12 @@
+Parkinson's disease is a progressive nervous system disorder that affects movement leading to shaking,stiffness and
+difficulty with walking, balance, and coordination.parkinson's system usually begin gradually and get worse over time.
+
+WORK FLOW -
+
+1. Parkinson's data collection(parkinson affected people, healthy people)
+2. Data preprcessing
+3. split the data into test data and train data
+4. training data is used to train our ML model(SVM). test data is used to evaluate our model.after evaluation we get 
+   trainned support vector machine model which can detect a person is having perkinson or not after givin it to new data.
+
+
